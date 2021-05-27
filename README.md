@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SharanSMenon
-- 👀 I’m interested in Machine Learning, Quantum Mechanics, Mathematics
-- 🌱 I’m currently learning Quantim Mechanics and Deep Learning
+- 👀 I’m interested in Machine Learning, Quantum Mechanics, Mathematics, and Physics
+- 🌱 I’m currently learning Quantim Mechanics, Deep Learning, and Physics
 
 <!---
 SharanSMenon/SharanSMenon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
