@@ -6,6 +6,7 @@
 
 - [Bird Identifier App](https://apps.apple.com/us/app/north-american-bird-identifier/id1597162972) - An iOS app that can identify 900 species of birds. Available to download on app store. Code is [here](https://github.com/SharanSMenon/Bird-identifier-iOS).
 - [Programming Datascience, and Others](https://www.youtube.com/c/ProgrammingDatascienceandOthers) - My YouTube channel where I post videos about Artificial Intelligence and other related topics
+- [AI Paper Implementations](https://github.com/SharanSMenon/ai-paper-implementations) - This repository contains various implementations of papers, with human readable code. 
 
 ## Tutorials
 The following links contain many useful tutorials.
