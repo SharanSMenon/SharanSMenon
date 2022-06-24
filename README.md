@@ -1,15 +1,17 @@
 - 👋 Hi, I’m @SharanSMenon
-- 👀 I’m interested in Machine Learning, Quantum Mechanics, Mathematics, and Physics
-- 🌱 I’m currently learning Quantim Mechanics, Deep Learning, and Physics
+- 👀 I’m interested in Machine Learning, Embedded Programming, Mathematics, and Physics
+- 🌱 I’m currently learning Bare Metal Programming, Deep Learning, and Physics
 
 ## Projects
 
 - [Bird Identifier App](https://apps.apple.com/us/app/north-american-bird-identifier/id1597162972) - An iOS app that can identify 900 species of birds. Available to download on app store. Code is [here](https://github.com/SharanSMenon/Bird-identifier-iOS).
 - [Programming Datascience, and Others](https://www.youtube.com/c/ProgrammingDatascienceandOthers) - My YouTube channel where I post videos about Artificial Intelligence and other related topics
 - [AI Paper Implementations](https://github.com/SharanSMenon/ai-paper-implementations) - This repository contains various implementations of papers, with human readable code. 
+- [Atari Breakout on Bare Metal](https://github.com/SharanSMenon/bare-metal-breakout) - An implementation of breakout on bare metal (no operating system). Runs on 64 bit Raspberry Pi devices.
+
 
 ## Tutorials
-The following links contain many useful tutorials.
+The following links contain many useful tutorials I made.
 
 - [AI Tutorials](https://blog.sharansajivmenon.vercel.app) - I have many AI tutorials here
 - [Differential Equations Notes](https://differential-equation-tutorial.vercel.app) - Here are my notes on differential equations.
