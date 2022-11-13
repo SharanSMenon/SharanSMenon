@@ -18,10 +18,11 @@ The following links contain many useful tutorials I made.
 - [Differential Equations Notes](https://differential-equation-tutorial.vercel.app) - Here are my notes on differential equations.
 - [More AI Tutorials](https://brave-lewin-ba468b.netlify.app) - Some more AI tutorials.  
 
-## My favorite repositories
+## Other things I made
 
-Along with my pinned repositories, here are some of my other favorite repositiories
+Here are some more of the things that I made
 
+- [Timeline of Indian History](https://indian-timeline.vercel.app/) - A timeline of Indian History, scraped from [this Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Indian_history) article. Editing the wikipedia article will update the timeline, please be careful that your information is accurate.
 - [Question Answering Demo](https://github.com/SharanSMenon/question-answering-tfjs) - A website that can answer questions based on a paragraph
 - [Math in Python](https://github.com/SharanSMenon/math-in-python) - A repository demonstrating mathematics in python + performance tests.
 - [Simple Todos Mac](https://github.com/SharanSMenon/SimpleTodos-Mac) - A useful menubar app that allows you to manage Todos.
